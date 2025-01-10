@@ -1,0 +1,3 @@
+kali> echo 10.1.0.{1..254} | sed 's/ /\n/g' >>hosts.txt
+
+kali> printf "10.1.0.%d\n" {1..255} >> hosts.txt

@@ -1,0 +1,1 @@
+nmap -sV -iL hosts.txt --open
